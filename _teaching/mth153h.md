@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "East Lansing, MI"
 ---
 
-I was the sole recitation leader, grader, and proctor for an honors calculus course of fifteen students.  
+I served as sole recitation leader, grader, and proctor for an honors calculus course of fifteen students.  
 
 Heading 1
 ======
