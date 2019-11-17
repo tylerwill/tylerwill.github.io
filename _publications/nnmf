@@ -5,9 +5,7 @@ permalink: /publication/nnmf
 date: 2019-12-16
 venue: 'IEEE CAMSAP'
 paperurl: 'http://tylerwill.github.io/files/nnmf.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'M. Gao, J. Haddock, D. Molitor, D. Needell, E. Sadovnik, T. Will, and R. Zhang. (2019). &quot;Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling.&quot; <i>Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)</i>. 1(1).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/nnmf.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: M. Gao, J. Haddock, D. Molitor, D. Needell, E. Sadovnik, T. Will, and R. Zhang. (2019). "Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling." <i>Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)</i>. 1(1).
