@@ -16,15 +16,27 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2018 - Present: Research Assistant 
+  * Michigan State University 
+  * Supervisor: Prof. Erik Goodman 
+  * Deliverable: a Python-Mathematica software package to debug &  interactively display rocket burns for a multi-objective optimization problem.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * University of Maryland
+  * Supervisor: Prof. John Dickerson
+  * Deliverable: "Can an Algorithm Be My Healthcare Proxy?"; see publications
+
+
+* Summer 2018: Research Assistant
+  * University of California, Los Angeles
+  * Supervisor: Prof. Deanna Needell
+  * Deliverable: "Neural Nonnegative Matrix Factorization for Hierarchical Multilayer Topic Modeling"; see publications.
+  
+  
+* Summer 2017: Data Science Intern 
+  * Trove Predictive Data Science in Buffalo, New York 
+  * Supervisor: Dr. Adam Stotz
+  * Deliverable: Implementation of a Bayesian-estimation algorithm now in use at Trove to improve the accuracy and reliability of Trove's datasets.
  
 <!---
 Skills
