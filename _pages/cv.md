@@ -36,7 +36,7 @@ Work experience
 * Summer 2017: Data Science Intern 
   * Trove Predictive Data Science in Buffalo, New York 
   * Supervisor: Dr. Adam Stotz
-  * Deliverable: Implementation of a Bayesian-estimation algorithm now in use at Trove to improve the accuracy and reliability of Trove's datasets.
+  * Deliverable: Implementation of a Bayesian-estimation algorithm to improve the accuracy and reliability of Trove's datasets.
  
 <!---
 Skills
