@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm applying to graduate programs in computer science and operations research to start in Fall 2020! **
+**I'm applying to graduate programs in computer science and operations research to start in Fall 2020!**
 {: .notice}
 
 I'm a senior undergraduate studying applied mathematics, statistics, and computer science at Michigan State University, where I am a [University Distinguished Scholar](https://msutoday.msu.edu/news/2016/23-high-school-seniors-receive-full-scholarships/).   I'm interested in algorithmic problems with direct societal impacts such as those in resource allocation, computational social choice, and fair artificial intelligence.  I'm particularly partial to work that draws on techniques from optimization, probability, and game theory.  My Erdös number is 4.  
