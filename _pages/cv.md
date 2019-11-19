@@ -76,7 +76,9 @@ Teaching
   
 Languages
 ======
-In decreasing proficiency: Python, R, Matlab, C++
+Python (strongest), R , Matlab, C++ (weakest)
+
+
 <!--- 
 Service and leadership
 ======
