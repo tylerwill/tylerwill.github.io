@@ -14,6 +14,11 @@ Education
 * B.S. in Computational Mathematics, Michigan State University, 2020 (expected)
 * B.S. in Statistics, Michigan State University, 2020 (expected)
 
+Interests
+======
+Economics and computation, approximation algorithms, multiagent systems, applied machine learning
+
+
 Work experience
 ======
 * Nov 2018 - Present: Research Assistant 
