@@ -72,6 +72,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
+Languages
+======
+In decreasing proficiency: Python, R, Matlab, C++
 <!--- 
 Service and leadership
 ======
