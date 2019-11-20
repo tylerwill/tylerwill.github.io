@@ -13,10 +13,11 @@ Education
 ======
 * B.S. in Computational Mathematics, Michigan State University, 2020 (expected)
 * B.S. in Statistics, Michigan State University, 2020 (expected)
+* Minor in Computer Science
 
 Interests
 ======
-Economics and computation, approximation algorithms, multiagent systems, applied machine learning
+Economics and computation, approximation algorithms, multiagent systems, applied machine learning, ethical artificial intelligence
 
 
 Work experience
@@ -41,7 +42,7 @@ Work experience
 * Summer 2017: Data Science Intern 
   * Trove Predictive Data Science in Buffalo, New York 
   * Supervisor: Dr. Adam Stotz
-  * Deliverable: Implementation of a Bayesian estimation algorithm to improve the accuracy and reliability of Trove's datasets.
+  * Deliverable: A Bayesian estimation algorithm for data imputation and aggregation to improve the accuracy and reliability of Trove's datasets.
  
 <!---
 Skills
