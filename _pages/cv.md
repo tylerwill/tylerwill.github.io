@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computational Mathematics, Michigan State University, 2020 (expected)
-* B.S. in Statistics, Michigan State University, 2020 (expected)
+* B.S. in Computational Mathematics, Michigan State University Honors College, 2020 (expected)
+* B.S. in Statistics, Michigan State University Honors College, 2020 (expected)
 * Minor in Computer Science
 
 Interests
@@ -73,6 +73,16 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
+Awards
+======
+* 1 of 6 of 34,000 applicants named [University Distinguished Scholar](https://msutoday.msu.edu/news/2016/23-high-school-seniors-receive-full-scholarships/) in Michigan State's incoming class of 2016.
+* Dean's List every semester
+* Beta Theta Pi Merit Scholarship Winner 
+* Valedictorian, Canisius High School Class of 2016 (1 of 215)
+* National Merit Scholar
+
   
   
 Languages
