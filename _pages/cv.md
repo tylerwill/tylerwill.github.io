@@ -79,9 +79,11 @@ Teaching
   
 Awards
 ======
+* 2020 Robert Gartland Fellow at Columbia IEOR
 * 1 of 6 of 34,000 applicants named [University Distinguished Scholar](https://msutoday.msu.edu/news/2016/23-high-school-seniors-receive-full-scholarships/) in Michigan State's incoming Class of 2016.
 * Dean's List every semester
 * Beta Theta Pi Merit Scholarship Winner 
+* Michigan State University Financial Markets Institute Scholar
 * Valedictorian, Canisius High School Class of 2016 (#1 of 215)
 * National Merit Scholar 
 
