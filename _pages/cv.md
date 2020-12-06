@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S./PhD in Operations Research, Columbia University in the City of New York, 2020-Present
-* B.S. in Computational Mathematics, Michigan State University Honors College, 2016-2020 
-* B.S. in Statistics, Michigan State University Honors College, 2016-2020 
+* M.S./Ph.D. in Operations Research, Columbia University in the City of New York, 2020-Present
+* B.S. (with High Honors) in Computational Mathematics, Michigan State University Honors College, 2016-2020 
+* B.S. (with High Honors) in Statistics, Michigan State University Honors College, 2016-2020 
 
 Interests
 ======
